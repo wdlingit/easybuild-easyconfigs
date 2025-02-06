@@ -72,7 +72,7 @@ exts_list = [
             'scipy-1.11.1_vectorization_error.patch',
         ],
         'checksums': [
-            {'scipy-1.11.4.tar.gz': '90a2b78e7f5733b9de748f589f09225013685f9b218275257f8a8168ededaeaa'},
+            {'scipy-1.11.4.tar.gz': '2a2fffa4e2c2c6fc65506cd2a4844c76444a18bdc576698a45322a1f84b47e29'},
             {'scipy-1.11.1_disable-tests.patch': '906bfb03397d94882ccdc1b93bc2c8e854e0e060c2d107c83042992394e6a4af'},
             {'scipy-1.11.1_xfail-aarch64_test_maxiter_worsening.patch':
              '918c8e6fa8215d459126f267764c961bde729ea4a116c7f6287cddfdc58ffcea'},
